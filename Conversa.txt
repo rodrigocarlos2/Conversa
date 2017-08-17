@@ -1,0 +1,31 @@
+
+Conversa
+
+
+Machine: Oi.
+User: Oi.
+
+Machine: Tudo bem?
+User: Tudo.
+
+Machine: Você tem um carro?
+User:  Sim/Não.
+
+Machine: Você tem filhos?
+User:  Sim/Não.
+
+Machine: Qual seu primeiro nome?
+User: Nome.
+
+Machine: Qual sua idade?
+User: Idade.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Machine: Você tem namorada(o)?
+User: Sim/Não.
+
+Machine: Você é do curso de Sistemas de Informação?
+User:  Sim/Não.
+
+------------------------------------------------------------------------------------------------------------------------
